@@ -4,11 +4,13 @@ body {
     color: white;
     height: 500px;
     width: 300px;
+    display: flexbox;
+    justify-self: center;
 }
 
-.cuerpo {
-    background-color: #3c3d3a;
-    border-top-left-radius: 22px;
+.cuerpo { 
+   background-color: #3c3d3a;
+   border-top-left-radius: 22px;
    border-top-right-radius: 22px;
    border-bottom-left-radius: 22px;
    border-bottom-right-radius: 22px;
